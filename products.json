@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Hamburguesa Clásica",
+        "price": "3000",
+        "image": "img/horizontal-restaurante-hamburguesas_198067-244011.jpg"
+    },
+    {
+        "name": "Burguerlu",
+        "price": "8000",
+        "image": "img/WhatsApp Image 2024-09-15 at 19.43.28.jpeg"
+    },
+    {
+        "name": "Burguerpi",
+        "price": "8500",
+        "image": "img/WhatsApp Image 2024-09-15 at 19.43.28 (5).jpeg"
+    },
+    {
+        "name": "Burguercor",
+        "price": "7500",
+        "image": "img/WhatsApp Image 2024-09-15 at 19.43.28 (2).jpeg"
+    },
+    {
+        "name": "Burguerquil",
+        "price": "5500",
+        "image": "img/WhatsApp Image 2024-09-15 at 19.43.28 (1).jpeg"
+    },
+    {
+        "name": "Burguerna",
+        "price": "6500",
+        "image": "img/WhatsApp Image 2024-09-15 at 19.43.28 (4).jpeg"
+    }
+]
